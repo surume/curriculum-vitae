@@ -4,8 +4,7 @@
 
 | key         | value                                       |
 | ----------- | ------------------------------------------- |
-| Name        | 宮本 祥太 (Shota Miyamoto)                   |
-| Mail        | sururne@gmail.com                      |
+| Mail        | sururne@gmail.com                           |
 
 ## スキル
 
