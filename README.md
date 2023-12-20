@@ -73,7 +73,7 @@ etc...
 - Ruby/React-native を使用したアプリケーションの作成
 - Github Actions を使用したCI/CD機能の作成
 
-### 広告分析ツール
+#### 広告分析アプリケーション開発
 
 - Nest.js を使用したアプリケーションの作成
 - GKE を使用したインフラの構築 (terraform)
