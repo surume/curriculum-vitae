@@ -73,10 +73,15 @@ etc...
 - Ruby/React-native を使用したアプリケーションの作成
 - Github Actions を使用したCI/CD機能の作成
 
+### 広告分析ツール
+
+- Nest.js を使用したアプリケーションの作成
+- GKE を使用したインフラの構築 (terraform)
+
 #### 不動産サービス開発
 
 - Rust/Vue.js を使用したアプリケーションの作成
-- AWS EKS を使用したインフラの構築 (terraform)
+- GKE を使用したインフラの構築 (terraform)
 - ElasticSearch を使用した検索機能の構築
 - Github Actions を使用したCI/CD機能の作成
 
