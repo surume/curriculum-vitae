@@ -47,12 +47,15 @@ etc...
 
 - AWS
 - GCP
+- Cloudflare
 - Docker
 - k8s
 - CircleCI
 - GitHub Actions
 - fluentd
 - Terraform
+- CDK
+- CDKtf
 - CFn
 - Chef
 - Serverless framework
@@ -67,7 +70,7 @@ etc...
 ### クリエーター向けプラットフォーム/決済サービス　開発
 
 - GKE を使用したインフラの構築 (terraform)
-- Cloud flare を用いたアプリケーションの作成
+- Cloudflare を用いたアプリケーションの作成
 
 #### ニュースキュレーションアプリ開発
 
